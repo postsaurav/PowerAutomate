@@ -1,0 +1,5 @@
+*.app
+*rad.json
+MSForm_To_MSDYN365BC/.vscode/rad.json
+MSForm_To_MSDYN365BC/.vscode/.alcache
+MSForm_To_MSDYN365BC/.vscode/launch.json

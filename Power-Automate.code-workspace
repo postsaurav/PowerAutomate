@@ -1,0 +1,10 @@
+{
+    "folders":  [
+                    {
+                        "path":  "MSForm_To_MSDYN365BC"
+                    },
+			  {
+                        "path":  "Power Automate Template"
+			  }
+                ]
+}

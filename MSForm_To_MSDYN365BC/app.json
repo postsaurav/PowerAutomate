@@ -1,0 +1,32 @@
+{
+  "id": "c9b4083d-1359-4277-8532-71dfaa6dd34c",
+  "name": "MS Forms To BC",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.2",
+  "brief": "This extension is used for demo purpose.",
+  "description": "Problem Statement - Move Data from Microsoft Forms To Business Central Using Power Automate.",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/contact",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
